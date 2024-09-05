@@ -1,3 +1,2 @@
 # Currencyconverter
-this is my first GIT Repository
-Author Name =  Rhit gupta 
+this is my first GIT Repository   Author Name =  Rohit gupta 
